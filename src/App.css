@@ -1,0 +1,10 @@
+.App {
+  padding: 50px;
+}
+#options label {
+  display: block;
+}
+
+progress {
+  margin-bottom: 10px;
+}
